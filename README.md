@@ -2,7 +2,9 @@
 
 <h2> Covid-19 Analysis <h2>
   <hr/>
-  ![슬라이드01](https://user-images.githubusercontent.com/64590527/92942390-6f696b80-f48c-11ea-82ca-163c2a01d880.JPG)
+  
+  
+![슬라이드01](https://user-images.githubusercontent.com/64590527/92942390-6f696b80-f48c-11ea-82ca-163c2a01d880.JPG)
 ![슬라이드02](https://user-images.githubusercontent.com/64590527/92942395-70020200-f48c-11ea-88c5-b6c93b0051a4.JPG)
 ![슬라이드03](https://user-images.githubusercontent.com/64590527/92942397-709a9880-f48c-11ea-968f-c5460c9b12b2.JPG)
 ![슬라이드04](https://user-images.githubusercontent.com/64590527/92942398-709a9880-f48c-11ea-81c4-7a0f4e8d10c4.JPG)
